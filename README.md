@@ -47,8 +47,8 @@ The Easy Way
  Simply clone the repository and run the main file:
 
 ```text
-git clone https://github.com/jarvis210904/JARVISuserbot/
-cd Userbot
+git clone https://github.com/Linuxinet/jarvisuserbot in
+cd jarvisuserbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
